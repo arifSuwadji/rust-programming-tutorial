@@ -8,7 +8,10 @@ selengkapnya klik [instalasi linux](https://www.tecmint.com/install-rust-program
 
 
 ## Cek Versi rust
-`rustc --version`
+```js
+rustc --version
+rustc 1.45.2 (d3fb005a3 2020-07-31)
+```
 
 ## Contoh
 ```js
@@ -18,10 +21,7 @@ fn main(){
 ```
 
 ## Compile
-```js
-rustc test.rs
-rustc 1.45.2 (d3fb005a3 2020-07-31)
-```
+`rustc test.rs`
 
 
 ## Jalankan Program
