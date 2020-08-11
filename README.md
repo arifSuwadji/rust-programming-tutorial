@@ -1,4 +1,5 @@
 # Rust Programming Tutorial
+Tutorial Rust Programming Language untuk pemula
 
 ## Instalasi
 `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
