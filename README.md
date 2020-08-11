@@ -11,7 +11,7 @@ selengkapnya klik [instalasi linux](https://www.tecmint.com/install-rust-program
 
 ## Contoh
 ```js
-   fn main(){
+fn main(){
     println!("Hello World, it’s TecMint.com – Best Linux HowTos, Guides on the Internet!");
 } 
 ```
