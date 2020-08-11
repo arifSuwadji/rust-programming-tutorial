@@ -18,7 +18,10 @@ fn main(){
 ```
 
 ## Compile
-`rustc test.rs`
+```js
+rustc test.rs
+rustc 1.45.2 (d3fb005a3 2020-07-31)
+```
 
 
 ## Jalankan Program
