@@ -5,7 +5,9 @@
 2.  tampilkan keterangan jika suatu angka adalah kelipatan 7
 
 3.  Ketentuan PDAM
+
     ... setiap pelanggan dikenakan pemakaian minimal 10m3 ...
+    
     ... tarif harga per m3: Rp 5 ribu rupiah ...
 
     buatlah program dengan 1 argument : berapa m3 pemakaian air
